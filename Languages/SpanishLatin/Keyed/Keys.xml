@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- Work priority details -->
+  <Fluffy.WorkPrioritiesDetails>Detalles de prioridades</Fluffy.WorkPrioritiesDetails>
+  <Fluffy.WorkPrioritiesDisclaimer>La ventana de detalles de prioridades de trabajo permite cambiar las prioridades de tipos de trabajo (cocinar, construir, etc.), y las actividades involucradas (llevar materiales, etc.).\n\nAVISO LEGAL:\n - La prioridad de algunos trabajos de emergencia es ignorada, y estos trabajos son siempre realizados primero (por ejemplo extinguir fuego).\n - Es totalmente posible llevar a la colonia a una parada completa debido a cambios descuidados en las prioridades. Utilice el botón en la parte superior de la pantalla para volver a las prioridades predeterminadas.</Fluffy.WorkPrioritiesDisclaimer>
+  <Fluffy.WorkPrioritiesDisclaimerTitle>Detalles de prioridad</Fluffy.WorkPrioritiesDisclaimerTitle>
+  <Fluffy.ResetPriorities>Restablecer prioridades predeterminadas</Fluffy.ResetPriorities>
+
+  <!-- PetFollow integration -->
+  <Fluffy.PetFollow.DraftedColumnTip>Shift-Clic para asignar a todos los animales para que sigan a sus dueños cuando son reclutados.</Fluffy.PetFollow.DraftedColumnTip>
+  <Fluffy.PetFollow.HunterColumnTip>Shift-Clic para asignar a todos los animales para que sigan a sus dueños cuando están cazando.</Fluffy.PetFollow.HunterColumnTip>
+  <Fluffy.PetFollow.NotFollowingDrafted>No seguir al dueño cuando esté reclutado.</Fluffy.PetFollow.NotFollowingDrafted>
+  <Fluffy.PetFollow.NotFollowingHunter>No seguir al dueño cuando esté cazando.</Fluffy.PetFollow.NotFollowingHunter>
+  <Fluffy.PetFollow.FollowingDrafted>Seguir al dueño cuando esté reclutado.</Fluffy.PetFollow.FollowingDrafted>
+  <Fluffy.PetFollow.FollowingHunter>Seguir al dueño cuando esté cazando.</Fluffy.PetFollow.FollowingHunter>
+
+  <!-- Dialog_FilterAnimals -->
+  <Fluffy.FilterByRace>Filtro por raza</Fluffy.FilterByRace>
+  <Fluffy.FilterByAttributes>Filtro por atributos</Fluffy.FilterByAttributes>
+
+  <Fluffy.Yes>si</Fluffy.Yes>
+  <Fluffy.No>no</Fluffy.No>
+  <Fluffy.Both>ambos</Fluffy.Both>
+
+  <Fluffy.genderLabel>Género</Fluffy.genderLabel>
+  <Fluffy.genderYes>femenino</Fluffy.genderYes>
+  <Fluffy.genderNo>macho</Fluffy.genderNo>
+
+  <Fluffy.trainingLabel>Entrenamiento de obediencia</Fluffy.trainingLabel>
+  <Fluffy.trainingYes>si</Fluffy.trainingYes>
+  <Fluffy.trainingNo>no</Fluffy.trainingNo>
+
+  <Fluffy.reproductiveLabel>Reproductivo</Fluffy.reproductiveLabel>
+  <Fluffy.reproductiveYes>si</Fluffy.reproductiveYes>
+  <Fluffy.reproductiveNo>no</Fluffy.reproductiveNo>
+
+  <Fluffy.pregnantLabel>Embarazo</Fluffy.pregnantLabel>
+  <Fluffy.pregnantYes>si</Fluffy.pregnantYes>
+  <Fluffy.pregnantNo>no</Fluffy.pregnantNo>
+
+  <Fluffy.oldLabel>Edad</Fluffy.oldLabel>
+  <Fluffy.oldYes>Cercano a morir</Fluffy.oldYes>
+  <Fluffy.oldNo>No cercano a morir</Fluffy.oldNo>
+
+  <Fluffy.milkableLabel>Lactífero</Fluffy.milkableLabel>
+  <Fluffy.milkableYes>si</Fluffy.milkableYes>
+  <Fluffy.milkableNo>no</Fluffy.milkableNo>
+
+  <Fluffy.shearableLabel>Esquilable</Fluffy.shearableLabel>
+  <Fluffy.shearableYes>si</Fluffy.shearableYes>
+  <Fluffy.shearableNo>no</Fluffy.shearableNo>
+
+  <XChronos.intelLabel>Inteligencia</XChronos.intelLabel>
+  <XChronos.intelYes>Inteligente</XChronos.intelYes>
+  <XChronos.intelNo>No inteligente</XChronos.intelNo>
+  
+  <Fluffy.FilterSticky>Adhesivo</Fluffy.FilterSticky>
+  <Fluffy.Clear>Limpiar</Fluffy.Clear>
+  <Fluffy.Enable>Habilitar</Fluffy.Enable>
+  <Fluffy.Disable>Deshabilitar</Fluffy.Disable>
+
+  <!-- Dialog_RenamePet -->
+  <Fluffy.PetName>Nombre mascota</Fluffy.PetName>
+  <Fluffy.PetRenamed>¡Mascota renombrada!</Fluffy.PetRenamed>
+  <Fluffy.PetInvalidName>Nombre inválido.</Fluffy.PetInvalidName>
+
+  <!-- MainTabWindow_Animals -->
+  <Fluffy.RestrictAllTo>Restringuir todo a {0}</Fluffy.RestrictAllTo>
+  <Fluffy.SortByTrainables>Clic para order por {0}</Fluffy.SortByTrainables>
+  <Fluffy.ShiftToTrainAll>Shift clic para entrenar todos</Fluffy.ShiftToTrainAll>
+  <Fluffy.TrainingCompleted>Entrenamiento completo.</Fluffy.TrainingCompleted>
+  <Fluffy.NotTraining>No entrenando.</Fluffy.NotTraining>
+  <Fluffy.CurrentlyTraining>Actualmente entrenando.</Fluffy.CurrentlyTraining>
+  <Fluffy.StepsCompleted>{0} de {1} completado.</Fluffy.StepsCompleted>
+  <Fluffy.Pregnant>{0} está embarazada.</Fluffy.Pregnant>
+  <Fluffy.Filter>Filtro</Fluffy.Filter>
+  <Fluffy.FilterTooltip>Clic izquierdo para estabkecer un filtro.\nClic derecho para filtro rápido.</Fluffy.FilterTooltip>
+  <Fluffy.DisableFilter>Deshabilitar filtro</Fluffy.DisableFilter>
+  <Fluffy.EnableFilter>Habilitar filtro</Fluffy.EnableFilter>
+  <Fluffy.Name>Nombre</Fluffy.Name>
+  <Fluffy.SortByName>Clic para ordenar por nombre.</Fluffy.SortByName>
+  <Fluffy.SortByPetness>Clic para ordenar por dueño y mascota.\nClic derecho para asingar dueños en masa.</Fluffy.SortByPetness>
+  <Fluffy.SortByGender>Clic para ordenar por género.</Fluffy.SortByGender>
+  <Fluffy.SortByAge>Clic para ordenar por estadío de vida y edad.</Fluffy.SortByAge>
+  <Fluffy.SortByPregnancy>Clic para ordenar por embarazo.</Fluffy.SortByPregnancy>
+  <Fluffy.SortByBodysizeSlaughter>Clic para ordenar por designación de sacrifio y tamaño.\nShift-clic para alternar sacrificio en masa.</Fluffy.SortByBodysizeSlaughter>
+  <Fluffy.StopSlaughter>resguardar del sacrificio</Fluffy.StopSlaughter>
+  <Fluffy.MarkSlaughter>marcar para el sacrificio</Fluffy.MarkSlaughter>
+  <Fluffy.ClickToJump>Clic izquierdo para saltar.</Fluffy.ClickToJump>
+  <Fluffy.RightClickToRename>Clic derecho para renombrar.</Fluffy.RightClickToRename>
+  <Fluffy.MassAssignMasterNone>Desasingar todos</Fluffy.MassAssignMasterNone>
+  <Fluffy.MassAssignMasterBonded>Asignar a colonistas vinculados</Fluffy.MassAssignMasterBonded>
+  <Fluffy.MassAssignMaster>Asignar todos a {0} ( Habilidad {1}, {2}/{3} pueden ser asignadas)</Fluffy.MassAssignMaster>
+  <Fluffy.NoObedientAnimals>Sin animales obedientes para asignar</Fluffy.NoObedientAnimals>
+  <XChronos.AnimalType>Tipo</XChronos.AnimalType>
+  <XChronos.AnimalTypeTooltip>Clic para alternar entre animales domesticados y salvajes.\nClic derecho para ver todas las opciones.</XChronos.AnimalTypeTooltip>
+  <XChronos.Wild>Salvajes</XChronos.Wild>
+  <XChronos.Tamed>Domesticados</XChronos.Tamed>
+  <XChronos.SortByBodysizeHunt>Clic para ordenar por designación de caza y tamaño.\nShift-clic para alternar caza en masa.</XChronos.SortByBodysizeHunt>
+  <XChronos.SortByWildnessTame>Clic para ordenar por designación de domesticación y fiereza.\nShift-clic para alternar domesticación en masa.</XChronos.SortByWildnessTame>
+  <XChronos.SortByWildnessTrainableIntelligence>Clic para ordenar por inteligencia de entrenamiento y fiereza.</XChronos.SortByWildnessTrainableIntelligence>
+  <XChronos.StopHunt>resguardar de ser cazado</XChronos.StopHunt>
+  <XChronos.MarkHunt>marcar para cazar</XChronos.MarkHunt>
+  <XChronos.StopTame>resguardar de ser domesticado</XChronos.StopTame>
+  <XChronos.MarkTame>marcar para domesticar</XChronos.MarkTame>
+</LanguageData>
